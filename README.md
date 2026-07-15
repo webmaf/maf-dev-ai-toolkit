@@ -1,4 +1,4 @@
-# MAF Dev AI Toolkit
+# Maf Dev AI Toolkit
 
 A personal AI-assisted development toolkit for professional software engineering.
 
