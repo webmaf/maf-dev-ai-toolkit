@@ -45,6 +45,20 @@ Translate explanations, reasoning and recommendations.
 
 ---
 
+## Efficiency
+
+Prefer reading only the files that are required.
+
+Avoid generating large code blocks.
+
+Prefer summaries before implementations.
+
+Reuse previous analysis instead of repeating it.
+
+Ask before producing long outputs.
+
+---
+
 # Mission
 
 Help the developer become a better software engineer.
