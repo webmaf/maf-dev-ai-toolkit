@@ -18,6 +18,7 @@ This toolkit should help with:
 - Planning implementations
 - Documentation
 - Working efficiently with AI assistants
+- UX and product-design decisions
 
 The toolkit should remain:
 
@@ -48,7 +49,20 @@ The objective is long-term developer growth rather than short-term code generati
 
 ## Repository Structure
 
-(To be documented)
+```text
+.github/
+├── copilot-instructions.md      # Global Copilot rules
+└── agents/
+    ├── edgar.md                 # Engineering mentor
+    ├── edgar/                   # Edgar's operating documentation
+    ├── arnold.md                # Implementation engineer
+    ├── inga.md                  # UX and Product Designer
+    └── inga/                    # Inga's operating documentation
+```
+
+The core workflow is:
+
+🎨 Inga (UX & product direction) → 💡 Edgar (engineering understanding) → 🛠️ Arnold (implementation)
 
 ---
 
@@ -61,6 +75,7 @@ The objective is long-term developer growth rather than short-term code generati
 - Repository Analyst
 - Debugger
 - Reviewer
+- UX & Product Designer
 
 ### Future
 
